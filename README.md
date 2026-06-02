@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Sr. Research Assistant · Data Scientist · Statistician · Agentic AI Developer</strong><br>
-  <a href="https://arced.foundation">ARCED Foundation</a> ·Mirpur DOHS, Dhaka, Bangladesh 🇧🇩
+  <a href="https://arced.foundation">ARCED Foundation</a> ·Mirpur DOHS, Dhaka, Bangladesh
 </p>
 
 <p align="center">
