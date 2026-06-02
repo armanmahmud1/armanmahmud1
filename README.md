@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arman Mahmud 👋</h1>
 
 <p align="center">
-  <strong>Sr. Research Assistant · Data Scientist · Statistician · Agentic AI Developer</strong><br>
+  <strong>Sr. Research Assistant · Agentic AI Developer · Data Scientist · Statistician </strong><br>
   <a href="https://arced.foundation">ARCED Foundation</a> ·Mirpur DOHS, Dhaka, Bangladesh
 </p>
 
