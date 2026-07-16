@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arman-mahmud-du/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://sites.google.com/view/armanmahmud1"><img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google&logoColor=white" alt="Website"/></a>
+  <a href="https://www.arman-mahmud.com"><img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google&logoColor=white" alt="Website"/></a>
   <a href="https://scholar.google.com/citations?user=xdXAYhgAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="https://orcid.org/0009-0004-2507-4687"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="https://x.com/arman_mahmud_du"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
@@ -63,7 +63,7 @@ Lately, I've been exploring **agentic AI workflows** for research automation and
 
 ## 📬 Get in Touch
 
-- 🌐 **Website:** [sites.google.com/view/armanmahmud1](https://sites.google.com/view/armanmahmud1)
+- 🌐 **Website:** [sites.google.com/view/armanmahmud1](https://www.arman-mahmud.com)
 - 💼 **LinkedIn:** [linkedin.com/in/arman-mahmud-du](https://www.linkedin.com/in/arman-mahmud-du/)
-- 📧 Reach me via the [Contact page](https://sites.google.com/view/armanmahmud1/contact-me) on my website
+- 📧 Reach me via the [Contact page](https://www.arman-mahmud.com/contact-me) on my website
 
