@@ -63,7 +63,7 @@ Lately, I've been exploring **agentic AI workflows** for research automation and
 
 ## 📬 Get in Touch
 
-- 🌐 **Website:** [sites.google.com/view/armanmahmud1](https://www.arman-mahmud.com)
+- 🌐 **Website:** [www.arman-mahmud.com](https://www.arman-mahmud.com)
 - 💼 **LinkedIn:** [linkedin.com/in/arman-mahmud-du](https://www.linkedin.com/in/arman-mahmud-du/)
 - 📧 Reach me via the [Contact page](https://www.arman-mahmud.com/contact-me) on my website
 
