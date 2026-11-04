@@ -80,17 +80,11 @@ Currently exploring **agentic AI workflows** for research automation and code ge
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=armanmahmud1&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanmahmud1&theme=default" alt="Profile Details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=armanmahmud1&theme=default" alt="GitHub Stats" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanmahmud1&layout=compact&theme=default&hide_border=true&hide_title=true" alt="Top Languages" height="165"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=armanmahmud1&theme=default&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=armanmahmud1&theme=default" alt="Top Languages" height="165"/>
 
 </div>
 
