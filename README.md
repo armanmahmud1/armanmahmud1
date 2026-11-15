@@ -26,7 +26,7 @@ Currently exploring **agentic AI workflows** for research automation and code ge
 
 ## Education
 
-🎓 **MSc in Applied Statistics and Data Science** — University of Dhaka
+🎓 **MSc in Applied Statistics and Data Science** — University of Dhaka <br>
 🎓 **BSc in Applied Statistics** — University of Dhaka
 
 <br>
@@ -42,7 +42,6 @@ Currently exploring **agentic AI workflows** for research automation and code ge
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
