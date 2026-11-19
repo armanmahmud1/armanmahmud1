@@ -101,11 +101,11 @@ net install odkrepeatmerge, from("https://raw.githubusercontent.com/armanmahmud1
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanmahmud1&theme=default" alt="Profile Details" />
+<img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=armanmahmud1&theme=default" alt="GitHub Stats" height="165"/>
+<img src="./profile-summary-card-output/default/3-stats.svg" alt="GitHub Stats" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=armanmahmud1&theme=default" alt="Top Languages" height="165"/>
+<img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Top Languages" height="165"/>
 
 </div>
 
