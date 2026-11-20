@@ -78,12 +78,6 @@ Currently building with **agentic AI** (Claude Code, Gemini) for research automa
 | [`do-template`](https://github.com/armanmahmud1/do-template) | Stata | Generate a do-file template with author info and formatting |
 | [`autochart`](https://github.com/armanmahmud1/autochart) | R | Auto-generate charts based on variable data types |
 
-**Install any Stata package** (swap in the package name):
-
-```stata
-net install odkrepeatmerge, from("https://raw.githubusercontent.com/armanmahmud1/odkrepeatmerge/main/") replace
-```
-
 <br>
 
 ## Projects & Tools
